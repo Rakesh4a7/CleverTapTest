@@ -1,0 +1,3 @@
+include ':convertDrawable'
+include ':app'
+rootProject.name = "CleverTapTest"
